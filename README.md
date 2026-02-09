@@ -10,12 +10,6 @@
 
 - 🌱 I'm currently learning **TypeScript**
 
-- 👯 I'm looking to collaborate on **open source projects**
-
-- 🤝 I'm looking for help with **learning system design**
-
-- 💬 Ask me about **any**
-
 - 📫 How to reach me **raufidnn@gmail.com**
 
 - ⚡ Fun fact **idal can be network engineer, ui/ux designer, graphic designer, and web developer.**
