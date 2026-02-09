@@ -2,10 +2,6 @@
 
 ### A Junior Full-Stack developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=haidirwf&label=Profile views&color=0e75b6&style=flat" alt="haidirwf" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haidirwf" alt="haidirwf" /></a> </p>
-
 - 🔭 I'm currently working on **a school e - library project**
 
 - 🌱 I'm currently learning **TypeScript**
