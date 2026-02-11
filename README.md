@@ -4,7 +4,7 @@
 
 - 🔭 I'm currently working on **a school e - library project**
 
-- 🌱 I'm currently learning **TypeScript**
+- 🌱 I'm currently learning **apa kek**
 
 - 📫 How to reach me **raufidnn@gmail.com**
 
