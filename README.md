@@ -2,13 +2,11 @@
 
 ### A Junior Full-Stack developer
 
-- 🔭 I'm currently working on **a school e - library project**
+- 🔭 I'm currently working on **a git clone**
 
-- 🌱 I'm currently learning **apa kek**
+- 🌱 I'm currently learning **Svelte**
 
 - 📫 How to reach me **raufidnn@gmail.com**
-
-- ⚡ Fun fact **idal can be network engineer, ui/ux designer, graphic designer, and web developer.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
