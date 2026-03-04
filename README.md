@@ -2,8 +2,6 @@
 
 ### A Junior Full-Stack developer
 
-- 🔭 I'm currently working on **a git clone**
-
 - 🌱 I'm currently learning **Svelte**
 
 - 📫 How to reach me **raufidnn@gmail.com**
